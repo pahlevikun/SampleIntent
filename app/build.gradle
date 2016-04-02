@@ -5,8 +5,13 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "ctproject.iakjakartaselatan"
         minSdkVersion 15
+=======
+        applicationId "com.ctproject.sampleintent"
+        minSdkVersion 16
+>>>>>>> 88caee295eee0a8154a08a592a967c88f357366f
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"

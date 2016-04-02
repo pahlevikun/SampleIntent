@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">"IAK Jakarta Selatan "</string>
+=======
+    <string name="app_name">Sample Intent</string>
+>>>>>>> 88caee295eee0a8154a08a592a967c88f357366f
 </resources>
